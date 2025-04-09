@@ -15,6 +15,7 @@ A Python-based web scraper that collects and analyzes ATP tennis ranking data. B
 📦 Also available as a published [PyPI package](https://pypi.org/project/atp-tennis-scraper/) — install with:
 ```bash
 pip install atp-tennis-scraper
+```
 
 
 ### 🗂 [School Project Portfolio](https://github.com/Semne77/Portfolio)
