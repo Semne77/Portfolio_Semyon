@@ -1,10 +1,10 @@
-# 🎯 Portfolio Repository - Semyon Tsyrenov
+# Portfolio Repository - Semyon Tsyrenov
 
 Welcome to my **Portfolio Repository**! This repository contains a collection of my **coding projects**, showcasing my skills in **Python development**, **data analysis**, **game programming**, **web scraping**, and **database management**.
 
 ---
 
-## 🏆 Highlighted Projects
+## Highlighted Projects
 
 ### 🔍 [RAG_Model](https://github.com/Semne77/RAG_Model)
 A Retrieval-Augmented Generation pipeline using HuggingFace Transformers and FAISS for semantic search. Demonstrates how to integrate LLMs with external knowledge sources to generate context-aware responses.
@@ -22,25 +22,25 @@ This repository includes multiple academic projects developed during my Computer
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
-### 1️⃣ Connect 4 Game 🎮  
+### 1️ Connect 4 Game  
 **Folder:** `Connect_4_Game/`  
 **Description:** A Python-based Connect Four game where two players compete to connect four tokens in a row, column, or diagonally.
 
-### 2️⃣ Course Map Application 🗺  
+### 2️ Course Map Application  
 **Folder:** `CourseMap_Application/`  
 **Description:** A planning tool for academic pathways that helps students visualize course prerequisites and plan future semesters.
 
-### 3️⃣ Database Project 🧮  
+### 3️ Database Project   
 **Folder:** `Database Project/`  
 **Description:** A structured relational database project involving schema design, SQL queries, and normalization.
 
-### 4️⃣ SOS Game 🧠  
+### 4️ SOS Game  
 **Folder:** `SOS_Game/`  
 **Description:** A Python game implementation of SOS with board state tracking and win condition logic.
 
-### 5️⃣ Web Scraping + Analytics 📊  
+### 5️ Web Scraping + Analytics   
 **Folder:** `WebScraping+Analytics/`  
 **Description:** Web scraping scripts used to extract data for analysis and visualization, including data cleaning and export.
 
