@@ -12,7 +12,12 @@ A Retrieval-Augmented Generation pipeline using HuggingFace Transformers and FAI
 ### 🎾 [ATP Tennis Scraper](https://github.com/Semne77/atp_tennis_scraper)
 A Python-based web scraper that collects and analyzes ATP tennis ranking data. Built to support data visualization and reporting with Power BI for sports analytics.
 
-### 🗂 [School Project Portfolio (You Are Here)](https://github.com/Semne77/Portfolio)
+📦 Also available as a published [PyPI package](https://pypi.org/project/atp-tennis-scraper/) — install with:
+```bash
+pip install atp-tennis-scraper
+
+
+### 🗂 [School Project Portfolio](https://github.com/Semne77/Portfolio)
 This repository includes multiple academic projects developed during my Computer Science coursework:
 - Connect 4 Game (Python)
 - Course Mapping Application
