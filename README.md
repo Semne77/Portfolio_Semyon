@@ -7,10 +7,10 @@ Welcome to my **Portfolio Repository**! This repository contains a collection of
 ## Highlighted Projects
 
 ### 🔍 [RAG_Model](https://github.com/Semne77/RAG_Model)
-A Retrieval-Augmented Generation pipeline using HuggingFace Transformers and FAISS for semantic search. Demonstrates how to integrate LLMs with external knowledge sources to generate context-aware responses.
+A smart question-answering system that combines a language model with a searchable database of information using FAISS. It helps the model find and use relevant facts to give better answers.
 
 ### 🎾 [ATP Tennis Scraper](https://github.com/Semne77/atp_tennis_scraper)
-A Python-based web scraper that collects and analyzes ATP tennis ranking data. Built to support data visualization and reporting with Power BI for sports analytics.
+A Python-based web scraper and PyPI package that collects ATP tennis ranking data for use in sports analytics. Designed to support data visualization and reporting.
 
 📦 Also available as a published [PyPI package](https://pypi.org/project/atp-tennis-scraper/) — install with:
 ```bash
