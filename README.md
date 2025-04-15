@@ -7,7 +7,7 @@ Welcome to my **Portfolio Repository**! This repository contains a collection of
 ## Highlighted Projects
 
 ### 🔍 [RAG_Model](https://github.com/Semne77/RAG_Model)
-A machine learning–based question-answering system that uses a searchable database (via FAISS) to find relevant information. It helps the model generate more accurate and informed answers by combining learned language skills with real data.
+A machine learning–based question-answering system that uses a searchable database (via FAISS) to find relevant information. It combines a language model with external data to generate more accurate and helpful answers.
 
 ### 🎾 [ATP Tennis Scraper](https://github.com/Semne77/atp_tennis_scraper)
 A Python-based web scraper and PyPI package that collects ATP tennis ranking data for use in sports analytics. Designed to support data visualization and reporting.
