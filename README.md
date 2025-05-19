@@ -6,6 +6,9 @@ Welcome to my **Portfolio Repository**! This repository contains a collection of
 
 ## Highlighted Projects
 
+### 🤖 [AI-Powered Resume Form Filler](https://github.com/Semne77/Workflow_Agent.git)
+An AI agent that parses resumes and automatically fills out online job applications using OpenAI GPT-4, LlamaIndex, and Optical Character Recognition tools. Supports resume, voice, and screenshot inputs. Modular and reusable design for diverse form platforms.
+
 ### 🔍 [RAG_Model](https://github.com/Semne77/RAG_Model)
 A machine learning–based question-answering system that uses a searchable database (via FAISS) to find relevant information. It combines a language model with external data to generate more accurate and helpful answers.
 
