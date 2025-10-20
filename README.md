@@ -20,7 +20,7 @@ Welcome to my **Portfolio Repository**! This repository contains a collection of
   pip install atp-tennis-scraper
   ```
 
-  ### [Budgeting Application(Capstone Project)](https://github.com/Semne77/cs451r)
+  ### 📊 [Budgeting Application(Capstone Project)](https://github.com/Semne77/cs451r)
   A full-stack personal finance management application built with React and Spring Boot that enables users to track transactions, set financial goals, and visualize spending patterns through interactive dashboards. It features secure user                authentication, real-time data visualization with Chart.js, and a PostgreSQL database for comprehensive financial data management.
   
 
