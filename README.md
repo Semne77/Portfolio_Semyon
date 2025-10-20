@@ -4,21 +4,25 @@ Welcome to my **Portfolio Repository**! This repository contains a collection of
 
 ---
 
-## Highlighted Projects
+  ## Highlighted Projects
+  
+  ### 🤖 [AI-Powered Resume Form Filler](https://github.com/Semne77/Workflow_Agent.git)
+  An AI agent that parses resumes and automatically fills out online job applications using OpenAI GPT-4, LlamaIndex, and Optical Character Recognition tools. Supports resume, voice, and screenshot inputs. Modular and reusable design for diverse form platforms.
+  
+  ### 🔍 [RAG_Model](https://github.com/Semne77/RAG_Model)
+  A machine learning–based question-answering system that uses a searchable database (via FAISS) to find relevant information. It combines a language model with external data to generate more accurate and helpful answers.
+  
+  ### 🎾 [ATP Tennis Scraper](https://github.com/Semne77/atp_tennis_scraper)
+  A Python-based web scraper and PyPI package that collects ATP tennis ranking data for use in sports analytics. Designed to support data visualization and reporting.
+  
+  📦 Also available as a published [PyPI package](https://pypi.org/project/atp-tennis-scraper/) — install with:
+  ```bash
+  pip install atp-tennis-scraper
+  ```
 
-### 🤖 [AI-Powered Resume Form Filler](https://github.com/Semne77/Workflow_Agent.git)
-An AI agent that parses resumes and automatically fills out online job applications using OpenAI GPT-4, LlamaIndex, and Optical Character Recognition tools. Supports resume, voice, and screenshot inputs. Modular and reusable design for diverse form platforms.
-
-### 🔍 [RAG_Model](https://github.com/Semne77/RAG_Model)
-A machine learning–based question-answering system that uses a searchable database (via FAISS) to find relevant information. It combines a language model with external data to generate more accurate and helpful answers.
-
-### 🎾 [ATP Tennis Scraper](https://github.com/Semne77/atp_tennis_scraper)
-A Python-based web scraper and PyPI package that collects ATP tennis ranking data for use in sports analytics. Designed to support data visualization and reporting.
-
-📦 Also available as a published [PyPI package](https://pypi.org/project/atp-tennis-scraper/) — install with:
-```bash
-pip install atp-tennis-scraper
-```
+  ### [Budgeting Application(Capstone Project)](https://github.com/Semne77/cs451r)
+  A full-stack personal finance management application built with React and Spring Boot that enables users to track transactions, set financial goals, and visualize spending patterns through interactive dashboards. It features secure user                authentication, real-time data visualization with Chart.js, and a PostgreSQL database for comprehensive financial data management.
+  
 
 
 ### 🗂 [School Project Portfolio](https://github.com/Semne77/Portfolio)
