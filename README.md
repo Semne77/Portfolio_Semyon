@@ -22,7 +22,8 @@ Welcome to my **Portfolio Repository**! This repository contains a collection of
   ### 📊 [Budgeting Application(Capstone Project)](https://github.com/Semne77/cs451r)
   A full-stack personal finance management application built with React and Spring Boot that enables users to track transactions, set financial goals, and visualize spending patterns through interactive dashboards. It features secure user                authentication, real-time data visualization with Chart.js, and a PostgreSQL database for comprehensive financial data management.
 
-
+<br><br>
+<br><br>
 
 
 Thanks for visiting! Feel free to check out the individual folders for more details and code samples.
