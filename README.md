@@ -1,6 +1,6 @@
 # Portfolio Repository - Semyon Tsyrenov
 
-Welcome to my **Portfolio Repository**! This repository contains a collection of my **coding projects**, showcasing my skills in **Python development**, **data analysis**, **game programming**, **web scraping**, and **database management**.
+Welcome to my **Portfolio Repository**! This repository contains a collection of my **coding projects**, showcasing my skills in Software Engineering.
 
 ---
 
@@ -13,7 +13,7 @@ Welcome to my **Portfolio Repository**! This repository contains a collection of
   ```bash
   pip install atp-tennis-scraper
   ```
-  ### [Weather worldwide](https://github.com/Semne77/WeatherApp)
+  ### 🌦️ [Weather worldwide](https://github.com/Semne77/WeatherApp)
   A full-stack weather application built with React and Flask that allows users to view current weather conditions on an interactive map or search by location. It also provides historical and forecasted weather data for selected date ranges, with AI-generated recommendations to help tennis tournament supervisors decide whether matches should be held indoors or outdoors. Includes saved search history, PDF export, and full frontend/backend test coverage.
   
   ### 🔍 [RAG_Model](https://github.com/Semne77/RAG_Model)
