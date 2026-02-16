@@ -1,6 +1,6 @@
 # Portfolio Repository - Semyon Tsyrenov
 
-Welcome to my **Portfolio Repository**! This repository contains a collection of my **coding projects**, showcasing my skills in Software Engineering.
+Welcome to my **Portfolio Repository**! This repository contains a collection of my **projects**, showcasing my skills in Software Engineering.
 
 ---
 
