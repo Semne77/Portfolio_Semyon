@@ -19,7 +19,7 @@ Welcome to my **Portfolio Repository**! This repository contains a collection of
   ### 🔍 [RAG_Model](https://github.com/Semne77/RAG_Model)
   A machine learning–based question-answering system that uses a searchable database (via FAISS) to find relevant information. It combines a language model with external data to generate more accurate and helpful answers.
 
-  ### 📊 [CommonCents(Capstone Project)](https://github.com/Semne77/financial-application)
+  ### 📊 [CommonCents (Capstone Project)](https://github.com/Semne77/financial-application)
   A full-stack personal finance management application built with React and Spring Boot that enables users to track transactions, set financial goals, and visualize spending patterns through interactive dashboards. It features secure user                authentication, real-time data visualization with Chart.js, and a PostgreSQL database for comprehensive financial data management.
 
 ---
